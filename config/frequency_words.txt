@@ -111,3 +111,15 @@ ai
 宇宙
 飞船
 航空
+
+crypto
+Bitcoin
+Ethereum
++ETF
+!airdrop
+
+AI
+ChatGPT
+OpenAI
++startup
+!job posting
