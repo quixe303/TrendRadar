@@ -1,125 +1,199 @@
-胖东来
-于东来
+# ==========================
+# 1️⃣ BEAUTY & SKINCARE
+# ==========================
+beauty
+skincare
+serum
+mask
+cream
+lotion
+acne
+pore
+blackhead
+whitening
+face lift
+face massage
++viral
+!doctor
+!clinic
 
-DeepSeek
-梁文锋
+# ==========================
+# 2️⃣ BEAUTY DEVICES (HOTTEST for TikTok Shop VN)
+# ==========================
+LED mask
+facial device
+nano mist
+hair curler
+heatless curls
+facelift tape
+face steamer
+RF device
+blackhead vacuum
+ice roller
++review
++demo
+!medical
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# ==========================
+# 3️⃣ HAIRCARE & MAKEUP
+# ==========================
+hairstyle
+curling
+hair dye
+wig
+extensions
+lip tint
+mascara
+foundation
+korean makeup
+cold girl makeup
+glass skin
 
-比亚迪
-王传福
+# ==========================
+# 4️⃣ HOUSEHOLD & KITCHEN GADGETS
+# ==========================
+kitchen
+cooking
+fryer
+mini oven
+food chopper
+peeler
+slicer
+silicone
+container
+organizer
+cleaning tool
+storage
++lazy
++hack
+!recipe
+!tutorial
 
-大疆
-DJI
+# ==========================
+# 5️⃣ ELECTRONICS ACCESSORIES
+# ==========================
+RGB light
+lamp
+projector
+fan
+humidifier
+camera
+tripod
+phone stand
+earphones
+charger
+power bank
++mini
 
-宇树
-王兴兴
+# ==========================
+# 6️⃣ FITNESS & BODY
+# ==========================
+fitness
+gym
+workout
+body shaping
+belly fat
+detox
+waist trainer
+yoga
+pilates
+hand grip
 
-智元
-灵犀
-稚晖君
-彭志辉
+# ==========================
+# 7️⃣ PET PRODUCTS
+# ==========================
+pet
+cat
+dog
+toy
+grooming
+feeder
+pet bed
+litter
+scratcher
 
-黑神话
-冯骥
+# ==========================
+# 8️⃣ FASHION (FAST VIRAL)
+# ==========================
+fashion
+outfit
+aesthetic
+minimalist
+streetwear
+Y2K
+cross body bag
+shoes
+sneakers
+jewelry
+accessories
+korean style
++ootd
 
-影之刃零
-梁其伟
+# ==========================
+# 9️⃣ VIRAL TIKTOK CONTENT
+# ==========================
+viral
+trending
+challenge
+life hack
+DIY
+ASMR
+satisfying
+must have
+before after
+tutorial
++video
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+# ==========================
+# 🔟 HOME DECOR & LIFESTYLE
+# ==========================
+room decor
+bedroom
+aesthetic room
+LED strip
+wall light
+desk setup
+minimal desk
+organizer
 
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
-
-crypto
-Bitcoin
-Ethereum
-+ETF
-!airdrop
-
+# ==========================
+# 1️⃣1️⃣ AI & DIGITAL PRODUCTS
+# ==========================
 AI
-ChatGPT
-OpenAI
-+startup
-!job posting
+avatar
+face swap
+deepfake
+filter
+ai girlfriend
+ai model
+ai agent
+sora
+gen ai
+stable diffusion
+midjourney
++app
+
+# ==========================
+# 1️⃣2️⃣ EDUCATION (VN virality)
+# ==========================
+IELTS
+study
+notes
+productivity
+self improvement
+planner
+motivation
++tips
+
+# ==========================
+# 1️⃣3️⃣ MEMES & GEN Z CULTURE
+# ==========================
+meme
+trend
+funny
+relatable
+KPOP
+idol
+anime
+cosplay
+fan edit
